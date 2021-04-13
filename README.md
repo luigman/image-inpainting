@@ -1,6 +1,8 @@
 # image-inpainting
 Implementation of Region Filling and Object Removal by Exemplar-Based Image Inpainting by Criminisi et al.
 
+![alt text](./results.png)
+
 Code can be run with "python main.py"
 
 New images must be placed in the images folder and the mask must be placed in the mask folder. Masks must start with the image filename and end with "_mask.jpg". An example image is provided.
